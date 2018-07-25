@@ -1,11 +1,9 @@
 # awesome-elib
 
-[共享开放的资源汇集与索引](https://gitlab.xhszjs.com/lufei/awesome-elib)
+[共享开放的资源汇集与索引 from A to Z](https://github.com/lflyou1314/awesome-elib)
 =======================
-- [Awesome-Python](#awesome-python)
-    - [Python](#python)
-    - [Django](#django)
-
+- [Awesome-Algorithm](#awesome-algorithm)
+    - [Data Structures and Algorithm Analysis in Java](#data-structures-and-algorithm-analysis-in-java)
 
 
 - [Awesome-Architecture](#awesome-architecture)
@@ -14,10 +12,8 @@
     - [Microservice Architecture](#microservice-architecture)
 
 
-
-- [Awesome-Linux](#awesome-linux)
-    - [CentOS](#centos)
-
+- [Awesome-DataBase](#awesome-dababase)
+    - [MySQL](#mysql)
 
 
 - [Awesome-Java](#awesome-java)
@@ -25,74 +21,51 @@
     - [JVM](#jvm)
 
 
+- [Awesome-Linux](#awesome-linux)
+    - [CentOS](#centos)
 
 
-- [Awesome-DataBase](#awesome-dababase)
-    - [MySQL](#mysql)
+- [Awesome-Python](#awesome-python)
+    - [Python](#python)
+    - [Django](#django)
 
 
-
-- [Awesome-Algorithm](#awesome-algorithm)
-    - [Data Structures and Algorithm Analysis in Java](#data-structures-and-algorithm-analysis-in-java)
-
-
-## Python
+## Data Structures and Algorithm Analysis in Java
 *资源类别描述*
 * [sourcename](sourcelink / sourcepath) - summary
-
-
-
-## Django
-*资源类别描述*
-* [sourcename](sourcelink / sourcepath) - summary
-
-
 
 ## Ali Architecture
 *资源类别描述*
 * [sourcename](sourcelink / sourcepath) - summary
 
-
-
 ## JD Architecture
 *资源类别描述*
 * [sourcename](sourcelink / sourcepath) - summary
-
-
 
 ## Microservice Architecture
 *资源类别描述*
 * [sourcename](sourcelink / sourcepath) - summary
 
-
-
-## CentOS
+## MySQL
 *资源类别描述*
 * [sourcename](sourcelink / sourcepath) - summary
-
-
-
 
 ## Java
 *资源类别描述*
 * [sourcename](sourcelink / sourcepath) - summary
 
-
-
-
 ## JVM
 *资源类别描述*
 * [sourcename](sourcelink / sourcepath) - summary
 
-
-
-
-## MySQL
+## CentOS
 *资源类别描述*
 * [sourcename](sourcelink / sourcepath) - summary
 
+## Python
+*资源类别描述*
+* [sourcename](sourcelink / sourcepath) - summary
 
-
-## Data Structures and Algorithm Analysis in Java
+## Django
 *资源类别描述*
 * [sourcename](sourcelink / sourcepath) - summary

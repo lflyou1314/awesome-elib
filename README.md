@@ -31,41 +31,31 @@
 
 
 ## Data Structures and Algorithm Analysis in Java
-*资源类别描述*
 * [sourcename](sourcelink / sourcepath) - summary
 
 ## Ali Architecture
-*资源类别描述*
 * [sourcename](sourcelink / sourcepath) - summary
 
 ## JD Architecture
-*资源类别描述*
 * [sourcename](sourcelink / sourcepath) - summary
 
 ## Microservice Architecture
-*资源类别描述*
 * [sourcename](sourcelink / sourcepath) - summary
 
 ## MySQL
-*资源类别描述*
 * [sourcename](sourcelink / sourcepath) - summary
 
 ## Java
-*资源类别描述*
 * [sourcename](sourcelink / sourcepath) - summary
 
 ## JVM
-*资源类别描述*
 * [sourcename](sourcelink / sourcepath) - summary
 
 ## CentOS
-*资源类别描述*
 * [sourcename](sourcelink / sourcepath) - summary
 
 ## Python
-*资源类别描述*
-* [sourcename](sourcelink / sourcepath) - summary
+* [PyQt5 教程](http://code.py40.com/pyqt5/) - pyqt5是一套Python绑定Digia QT5应用的框架。它可用于Python 2和3。pyqt5做为Python的一个模块，它有620多个类和6000个函数和方法。这是一个跨平台的工具包，它可以运行在所有主要的操作系统，包括UNIX，Windows，Mac OS。pyqt5是双重许可。开发者可以在GPL和商业许可之间进行选择。
 
 ## Django
-*资源类别描述*
 * [sourcename](sourcelink / sourcepath) - summary
